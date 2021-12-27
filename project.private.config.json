@@ -1,0 +1,36 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "首页",
+                    "pathName": "pages/index/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "日志",
+                    "pathName": "pages/logs/logs",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "主页",
+                    "pathName": "pages/home/home",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}
